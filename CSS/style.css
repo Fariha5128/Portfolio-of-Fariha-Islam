@@ -141,6 +141,9 @@ a,a:hover{
      text-transform: uppercase;
      letter-spacing: 2px;
 }
+.slider .carousel-item .blue{
+    height:600px;
+}
 .slider .carousel-caption p{
 	 font-size: 16px;
      line-height: 26px;
