@@ -1,6 +1,6 @@
 /*
 img{border: black solid 5px;}
-header h1{font-size: 50px;color:#506A85;font-family: Agency FB;
+header h2{font-size: 50px;color:#506A85;font-family: Agency FB;
 text-align: left;float: none;}
 header h3{display:block;float: none;}
 hr { color: #9ACD32;}
@@ -15,10 +15,14 @@ body{margin-left: 2%;font-size: 20px;}
 body{
 	/*margin-left: 2%*/;font-size: 18px;
 background: #F5F7FA;}
+.amar-pic{
+	width:150px;
+	height:150px;
+}
 
 img{border: black solid 5px;
 text-align: center;}
-header h1{font-size: 50px;color:#506A85;font-family: Agency FB;
+header h2{font-size: 50px;color:#506A85;font-family: Agency FB;
 text-align: left;}
 /*header h3{display:block;}*/
 hr { color: #fff;}
