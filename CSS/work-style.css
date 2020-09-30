@@ -1,0 +1,200 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+body{
+	font-family: sans-serif;
+	font-size: 14px;
+	line-height: 24px;
+}
+
+h1,h2,h3,h4,h5,h6{
+	font-family: sans-serif;
+}
+
+a,a:hover{
+	text-decoration: none;
+}
+
+/****************************************************************************
+************ ***    summary-section code start here     **************
+***************************************************************************************/
+
+
+
+
+.summary-section{
+
+	 width: 100%;
+     
+     padding: 60px 0px;
+     background: #F6F9F9;
+}
+
+
+
+.summary-inner{
+	width: 100%;
+	
+	padding: 40px 0px;
+	text-align: center;
+
+}
+.summary-inner h1{
+	font-size: 42px;
+	font-weight: 400;
+	line-height: 57px;
+	color: #2D3950;
+	margin-bottom: 15px;
+	text-transform: uppercase;
+margin:15px auto;
+}
+
+.summary-inner p{
+	color: #999999;
+	font-size: 14px;
+	line-height: 24px;
+	font-weight: 400;
+ margin:15px auto;}
+}
+.calender{
+	float: right;
+}
+
+/****************************************************************************
+************ ***    summary-section code end here     **************
+***************************************************************************************/
+
+/****************************************************************************
+************ ***    icon-section css start here     **************
+***************************************************************************************/
+
+.icon-section{
+	 width: 100%;
+     
+     padding: 60px 0px;
+     background: #FFF;
+	display: inline-block;
+	
+}
+.icon-section .icon-inner{
+	width: 100%;
+	margin-left: 20px;
+	padding: 40px 0px;
+	text-align: center;
+}
+.icon-section .icon-inner img{
+	margin-bottom:25px;
+}
+
+.icon-section .icon-inner h4{
+	font-size: 22px;
+	font-weight: 400;
+	line-height: 35px;
+	color: #000;
+	margin-bottom: 10px;
+	text-transform: uppercase;
+		margin-left: 35px;
+}
+
+.icon-section .icon-inner p{
+	color: #999999;
+	font-size: 14px;
+	line-height: 24px;
+	font-weight: 400;
+ 	margin-left: 35px;
+}
+
+
+
+
+/*****************************************************************************
+************ ***    icon-section css start here     **************
+***************************************************************************************/
+
+
+
+/*****************************************************************************
+************ ***    features-section css start here     **************
+***************************************************************************************/
+
+.feature-section{
+	width: 100%;
+     
+     padding: 80px 0px;
+     background: #F6F9F9;
+}
+.feature-section .feature-tittle{
+	width: 100%;
+	font: left;
+	text-align: center;
+	margin-bottom: 50px;
+}
+.feature-section .feature-tittle h1{
+	font-size: 42px;
+	font-weight: 400;
+	line-height: 52px;
+	color: #000;
+	margin-bottom: 5px;
+
+}
+.feature-section .feature-tittle p{
+    color: #999999;
+	font-size: 20px;
+	line-height: 24px;
+}
+.card{
+	width: 100%;
+	margin-bottom: 25px;
+	position: relative;
+	
+}
+.hover-feature {
+    text-align: center;
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    display: block;
+    top: 0%;
+    left: 0;
+    background: rgb(32,158,239,0.8);
+    display: none;
+}
+.hover-feature ul {
+    display: block;
+    text-align: center;
+    
+    position: absolute;
+    top: 46%;
+    left: 35%;
+}
+.hover-feature ul li{
+  list-style: none;
+  display: inline-block;
+}
+.hover-feature ul li a{
+	margin: 0px 3px;
+}
+.hover-feature ul li img{
+  border: solid 1px #FFF;
+  border-radius: 3px;
+  padding: 10px;
+
+}
+.card:hover .hover-feature{
+	display: block;
+	transition: 1s;
+}
+
+.marr{
+	margin-top: 20px;
+}
+
+
+
+/*****************************************************************************
+************ ***    features-section css end here     **************
+***************************************************************************************/
+
+

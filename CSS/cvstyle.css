@@ -1,0 +1,95 @@
+/*
+img{border: black solid 5px;}
+header h1{font-size: 50px;color:#506A85;font-family: Agency FB;
+text-align: left;float: none;}
+header h3{display:block;float: none;}
+hr { color: #9ACD32;}
+p{font-size: 20px;}
+table{text-align: center;width:1750px;}
+th{background-color: #9ACD32;}
+section h1{background-color: #006400;color:#FFFFFF;}
+.arrange{display:inline-block;width:40%;}
+.area{display:inline-block;width:40%;margin-left: 8%;}
+body{margin-left: 2%;font-size: 20px;}
+*/
+body{
+	/*margin-left: 2%*/;font-size: 18px;
+background: #F5F7FA;}
+
+img{border: black solid 5px;
+text-align: center;}
+header h1{font-size: 50px;color:#506A85;font-family: Agency FB;
+text-align: left;}
+/*header h3{display:block;}*/
+hr { color: #fff;}
+.About th{
+color: #fff;
+}
+p{font-size: 18px;}
+table{
+	text-align: center;/*width:1750px;*/
+	margin-top: 25px;
+     margin-bottom: 25px; 
+      }
+th{background-color: #506A85;}
+section h1{background-color: #506A85;color:#FFFFFF;}
+/*.arrange{display:inline-block;/*width:40%;*/}
+/*.area{display:inline-block;width:40%;margin-left: 8%;}*/
+
+.About{
+	margin-top: 25px;
+     margin-bottom: 25px;
+     margin-left: 15px;
+}
+.Experience{
+	margin-top: 25px;
+     margin-bottom: 25px;
+
+}
+.Experience ul li{
+    margin-left: 20px;
+}
+.Skill{
+	margin-top: 25px;
+     margin-bottom: 25px;
+}
+.Skill ul li{
+    margin-left: 20px;
+}
+
+.Accomplishments{
+	margin-top: 25px;
+     margin-bottom: 25px;
+}
+
+.Contact{
+	margin-top: 25px;
+     margin-bottom: 25px;
+}
+
+
+
+
+
+.skill{
+	 width: 100%;
+  
+     padding: 60px 0px;
+     background: #FFF;
+	display: inline-block;
+	
+}
+
+.skill .Accomplishments{
+	margin-left: 90px;
+	width: 100%;
+	/*float: left;*/
+	padding: 40px 0px;
+	text-align: center;
+}
+.Accomplishments ul li{
+    margin-left: 20px;
+}
+.skill .marr{
+	padding: 20px;
+}
